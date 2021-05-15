@@ -1,0 +1,15 @@
+.active-class {
+  background-color: teal !important;
+  color: #fff;
+}
+
+.active-class:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.nav-wrapper {
+  min-width: 300px;
+  height: 100vh;
+  background-color: #f8f9fa;
+}
