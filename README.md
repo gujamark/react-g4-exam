@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was deployed to Netlify [https://eloquent-poitras-42bd1c.netlify.app/](https://eloquent-poitras-42bd1c.netlify.app/).
+This project was deployed to Netlify [https://wonderful-lumiere-2c1040.netlify.app/](https://wonderful-lumiere-2c1040.netlify.app/).
 
 ## Available Scripts
 
